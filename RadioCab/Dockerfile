@@ -14,7 +14,7 @@ RUN dotnet restore "RadioCab/RadioCab.csproj"
 COPY . .
 
 # Publish app
-RUN dotnet publish "RadioCab.csproj" \
+RUN dotnet publish ""RadioCab/RadioCab.csproj" \
     -c Release \
     -o /app/publish \
     /p:UseAppHost=false \
