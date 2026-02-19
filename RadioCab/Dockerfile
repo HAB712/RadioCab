@@ -1,14 +1,37 @@
-# Build stage
+# -------------------------------
+# Build Stage
+# -------------------------------
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-WORKDIR /app
+WORKDIR /src
 
+# Copy only csproj first (for caching)
+COPY ["RadioCab.csproj", "./"]
+
+# Restore dependencies
+RUN dotnet restore "RadioCab.csproj"
+
+# Copy everything else
 COPY . .
-RUN dotnet restore
-RUN dotnet publish -c Release -o out
 
-# Runtime stage
-FROM mcr.microsoft.com/dotnet/aspnet:8.0
+# Publish app
+RUN dotnet publish "RadioCab.csproj" \
+    -c Release \
+    -o /app/publish \
+    /p:UseAppHost=false \
+    /p:RestoreFallbackFolders=""
+
+# -------------------------------
+# Runtime Stage
+# -------------------------------
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 WORKDIR /app
-COPY --from=build /app/out .
 
+# Copy published output
+COPY --from=build /app/publish .
+
+# Railway required port
+ENV ASPNETCORE_URLS=http://+:8080
+EXPOSE 8080
+
+# Start app
 ENTRYPOINT ["dotnet", "RadioCab.dll"]
