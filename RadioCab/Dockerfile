@@ -5,10 +5,10 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 # Copy only csproj first (for caching)
-COPY ["RadioCab.csproj", "./"]
+COPY ["RadioCab/RadioCab.csproj", "RadioCab/"]
 
 # Restore dependencies
-RUN dotnet restore "RadioCab.csproj"
+RUN dotnet restore "RadioCab/RadioCab.csproj"
 
 # Copy everything else
 COPY . .
