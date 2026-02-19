@@ -1,0 +1,762 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\AFinal\\RadioCab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\wwwroot\\css\\access.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\wwwroot\\css\\access.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\wwwroot\\css\\user\\vacancies.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\wwwroot\\css\\user\\vacancies.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\models\\paymentmethodvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\models\\paymentmethodvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\admin\\member.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\admin\\member.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\wwwroot\\js\\paymentmethod.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\wwwroot\\js\\paymentmethod.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\admin\\paymentmethodlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\admin\\paymentmethodlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Afproject\\usamaproject\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\user\\vacancydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\user\\vacancydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\user\\vacancies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\user\\vacancies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\user\\drivers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\user\\drivers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\user\\companydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\user\\companydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\wwwroot\\css\\com_reg.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\wwwroot\\css\\com_reg.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\account\\driverregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\account\\driverregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\account\\companyregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\account\\companyregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\user\\driverdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\user\\driverdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\user\\companies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\user\\companies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\wwwroot\\css\\user\\company-details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\wwwroot\\css\\user\\company-details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\driver\\membershipplans.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\driver\\membershipplans.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\wwwroot\\company\\css\\vacancyapppage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\wwwroot\\company\\css\\vacancyapppage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\wwwroot\\company\\company\\css\\vacancyapppage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\wwwroot\\company\\company\\css\\vacancyapppage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\company\\vacancypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\company\\vacancypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\admin\\companymanage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\admin\\companymanage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\wwwroot\\company\\css\\vacancypage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\wwwroot\\company\\css\\vacancypage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\wwwroot\\driver\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\wwwroot\\driver\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\models\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\models\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\models\\advertisementvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\models\\advertisementvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\models\\vacancyvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\models\\vacancyvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\models\\driverfeedbackvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\models\\driverfeedbackvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\admin\\driverfeedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\admin\\driverfeedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\models\\drivervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\models\\drivervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\views\\driver\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\driver\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afinal\\radiocab\\radiocab\\models\\radiocabcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\models\\radiocabcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Member.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Admin\\Member.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\Admin\\Member.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Admin\\Member.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\Admin\\Member.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T02:46:01.395Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "RadioCab\\Controllers\\AdminController.cs",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "RadioCab\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAB0DAAAAAAAAAAAhwMsCAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:44:24.57Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DriverController.cs",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Controllers\\DriverController.cs",
+              "RelativeDocumentMoniker": "RadioCab\\Controllers\\DriverController.cs",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Controllers\\DriverController.cs",
+              "RelativeToolTip": "RadioCab\\Controllers\\DriverController.cs",
+              "ViewState": "AgIAALADAAAAAAAAAAAYwCkCAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:53:00.015Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "RadioCab\\Controllers\\CompanyController.cs",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "RadioCab\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:53:52.232Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "access.css",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\css\\access.css",
+              "RelativeDocumentMoniker": "RadioCab\\wwwroot\\css\\access.css",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\css\\access.css",
+              "RelativeToolTip": "RadioCab\\wwwroot\\css\\access.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-13T18:29:49.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T04:10:27.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "paymentmethod.js",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\js\\paymentmethod.js",
+              "RelativeDocumentMoniker": "RadioCab\\wwwroot\\js\\paymentmethod.js",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\js\\paymentmethod.js",
+              "RelativeToolTip": "RadioCab\\wwwroot\\js\\paymentmethod.js",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwEoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-13T17:23:07.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vacancies.css",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\css\\user\\vacancies.css",
+              "RelativeDocumentMoniker": "RadioCab\\wwwroot\\css\\user\\vacancies.css",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\css\\user\\vacancies.css",
+              "RelativeToolTip": "RadioCab\\wwwroot\\css\\user\\vacancies.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-12T14:07:42.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentMethodValidate.cs",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Models\\PaymentMethodValidate.cs",
+              "RelativeDocumentMoniker": "RadioCab\\Models\\PaymentMethodValidate.cs",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Models\\PaymentMethodValidate.cs",
+              "RelativeToolTip": "RadioCab\\Models\\PaymentMethodValidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T17:29:58.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentMethodList.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Admin\\PaymentMethodList.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\Admin\\PaymentMethodList.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Admin\\PaymentMethodList.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\Admin\\PaymentMethodList.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T17:22:45.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\User\\Index.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T07:22:21.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VacancyDetails.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\User\\VacancyDetails.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\User\\VacancyDetails.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\User\\VacancyDetails.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\User\\VacancyDetails.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAJAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T23:12:33.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "F:\\Afproject\\usamaproject\\AdminController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Afproject\\usamaproject\\AdminController.cs",
+              "ToolTip": "F:\\Afproject\\usamaproject\\AdminController.cs",
+              "RelativeToolTip": "..\\..\\Afproject\\usamaproject\\AdminController.cs",
+              "ViewState": "AgIAAC0CAAAAAAAAAAAAAIEBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T17:14:33.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\appsettings.json",
+              "RelativeDocumentMoniker": "RadioCab\\appsettings.json",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\appsettings.json",
+              "RelativeToolTip": "RadioCab\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T10:31:28.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Drivers.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\User\\Drivers.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\User\\Drivers.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\User\\Drivers.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\User\\Drivers.cshtml",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAK4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T21:45:51.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vacancies.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\User\\Vacancies.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\User\\Vacancies.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\User\\Vacancies.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\User\\Vacancies.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAIkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T23:10:32.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RadioCab\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RadioCab\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T08:43:58.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CompanyDetails.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\User\\CompanyDetails.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\User\\CompanyDetails.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\User\\CompanyDetails.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\User\\CompanyDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T22:47:18.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Com_reg.css",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\css\\Com_reg.css",
+              "RelativeDocumentMoniker": "RadioCab\\wwwroot\\css\\Com_reg.css",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\css\\Com_reg.css",
+              "RelativeToolTip": "RadioCab\\wwwroot\\css\\Com_reg.css",
+              "ViewState": "AgIAAMMBAAAAAAAAAAAuwNoBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-12T17:23:38.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\Account\\Login.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAOAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-12T17:47:20.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Company\\Index.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\Company\\Index.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Company\\Index.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\Company\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T04:09:57.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "company-details.css",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\css\\user\\company-details.css",
+              "RelativeDocumentMoniker": "RadioCab\\wwwroot\\css\\user\\company-details.css",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\css\\user\\company-details.css",
+              "RelativeToolTip": "RadioCab\\wwwroot\\css\\user\\company-details.css",
+              "ViewState": "AgIAALQAAAAAAAAAAAAuwN4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-12T14:27:47.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CompanyRegister.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Account\\CompanyRegister.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\Account\\CompanyRegister.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Account\\CompanyRegister.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\Account\\CompanyRegister.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-12T17:22:20.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.css",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\css\\Login.css",
+              "RelativeDocumentMoniker": "RadioCab\\wwwroot\\css\\Login.css",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\css\\Login.css",
+              "RelativeToolTip": "RadioCab\\wwwroot\\css\\Login.css",
+              "ViewState": "AgIAADECAAAAAAAAAAAuwFICAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-12T17:34:46.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DriverRegister.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Account\\DriverRegister.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\Account\\DriverRegister.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Account\\DriverRegister.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\Account\\DriverRegister.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-12T17:47:00.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Companies.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\User\\Companies.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\User\\Companies.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\User\\Companies.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\User\\Companies.cshtml",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAAAPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-12T13:55:39.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MembershipPlans.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Driver\\MembershipPlans.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\Driver\\MembershipPlans.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Driver\\MembershipPlans.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\Driver\\MembershipPlans.cshtml",
+              "ViewState": "AgIAAGcCAAAAAAAAAAAAAGICAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T04:38:45.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_UserLayout.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\Shared\\_UserLayout.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\Shared\\_UserLayout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwEgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T01:00:43.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DriverDetails.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\User\\DriverDetails.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\User\\DriverDetails.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\User\\DriverDetails.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\User\\DriverDetails.cshtml",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAAABYBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T21:50:55.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "VacancyAppPage.css",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\Company\\css\\VacancyAppPage.css",
+              "RelativeDocumentMoniker": "RadioCab\\wwwroot\\Company\\css\\VacancyAppPage.css",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\Company\\css\\VacancyAppPage.css",
+              "RelativeToolTip": "RadioCab\\wwwroot\\Company\\css\\VacancyAppPage.css",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAqwDUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-10T01:13:14.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VacancyAppPage.css",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\Company\\Company\\css\\VacancyAppPage.css",
+              "RelativeDocumentMoniker": "RadioCab\\wwwroot\\Company\\Company\\css\\VacancyAppPage.css",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\Company\\Company\\css\\VacancyAppPage.css",
+              "RelativeToolTip": "RadioCab\\wwwroot\\Company\\Company\\css\\VacancyAppPage.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-10T01:13:31.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Program.cs",
+              "RelativeDocumentMoniker": "RadioCab\\Program.cs",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Program.cs",
+              "RelativeToolTip": "RadioCab\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwFoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:14:52.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "VacancyPage.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Company\\VacancyPage.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\Company\\VacancyPage.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Company\\VacancyPage.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\Company\\VacancyPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T02:06:23.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CompanyManage.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Admin\\CompanyManage.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\Admin\\CompanyManage.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Admin\\CompanyManage.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\Admin\\CompanyManage.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAJkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-12T11:00:20.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "VacancyPage.css",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\Company\\css\\VacancyPage.css",
+              "RelativeDocumentMoniker": "RadioCab\\wwwroot\\Company\\css\\VacancyPage.css",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\Company\\css\\VacancyPage.css",
+              "RelativeToolTip": "RadioCab\\wwwroot\\Company\\css\\VacancyPage.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-10T02:10:12.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Advertisement.cs",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Models\\Advertisement.cs",
+              "RelativeDocumentMoniker": "RadioCab\\Models\\Advertisement.cs",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Models\\Advertisement.cs",
+              "RelativeToolTip": "RadioCab\\Models\\Advertisement.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:44:31.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Layout.css",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\Driver\\css\\Layout.css",
+              "RelativeDocumentMoniker": "RadioCab\\wwwroot\\Driver\\css\\Layout.css",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\wwwroot\\Driver\\css\\Layout.css",
+              "RelativeToolTip": "RadioCab\\wwwroot\\Driver\\css\\Layout.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-09T22:56:53.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DriverVM.cs",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Models\\DriverVM.cs",
+              "RelativeDocumentMoniker": "RadioCab\\Models\\DriverVM.cs",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Models\\DriverVM.cs",
+              "RelativeToolTip": "RadioCab\\Models\\DriverVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T21:47:19.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DriverFeedbackVM.cs",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Models\\DriverFeedbackVM.cs",
+              "RelativeDocumentMoniker": "RadioCab\\Models\\DriverFeedbackVM.cs",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Models\\DriverFeedbackVM.cs",
+              "RelativeToolTip": "RadioCab\\Models\\DriverFeedbackVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T21:43:16.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AdvertisementVM.cs",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Models\\AdvertisementVM.cs",
+              "RelativeDocumentMoniker": "RadioCab\\Models\\AdvertisementVM.cs",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Models\\AdvertisementVM.cs",
+              "RelativeToolTip": "RadioCab\\Models\\AdvertisementVM.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA2wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:29:05.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Driverfeedback.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Admin\\Driverfeedback.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\Admin\\Driverfeedback.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Admin\\Driverfeedback.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\Admin\\Driverfeedback.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADECAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T13:06:36.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "VacancyVM.cs",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Models\\VacancyVM.cs",
+              "RelativeDocumentMoniker": "RadioCab\\Models\\VacancyVM.cs",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Models\\VacancyVM.cs",
+              "RelativeToolTip": "RadioCab\\Models\\VacancyVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:08:13.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "feedback.cshtml",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Driver\\feedback.cshtml",
+              "RelativeDocumentMoniker": "RadioCab\\Views\\Driver\\feedback.cshtml",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Views\\Driver\\feedback.cshtml",
+              "RelativeToolTip": "RadioCab\\Views\\Driver\\feedback.cshtml",
+              "ViewState": "AgIAABABAAAAAAAAAAAiwC8BAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T13:03:30.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RadioCabContext.cs",
+              "DocumentMoniker": "F:\\AFinal\\RadioCab\\RadioCab\\Models\\RadioCabContext.cs",
+              "RelativeDocumentMoniker": "RadioCab\\Models\\RadioCabContext.cs",
+              "ToolTip": "F:\\AFinal\\RadioCab\\RadioCab\\Models\\RadioCabContext.cs",
+              "RelativeToolTip": "RadioCab\\Models\\RadioCabContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:27:41.756Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 664,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 889,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
