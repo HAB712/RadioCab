@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\AFinal\\RadioCab\\RadioCab\\RadioCab.csproj": {}
+    "F:\\Afproject\\RadioCab\\RadioCab\\RadioCab.csproj": {}
   },
   "projects": {
-    "F:\\AFinal\\RadioCab\\RadioCab\\RadioCab.csproj": {
+    "F:\\Afproject\\RadioCab\\RadioCab\\RadioCab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\AFinal\\RadioCab\\RadioCab\\RadioCab.csproj",
+        "projectUniqueName": "F:\\Afproject\\RadioCab\\RadioCab\\RadioCab.csproj",
         "projectName": "RadioCab",
-        "projectPath": "F:\\AFinal\\RadioCab\\RadioCab\\RadioCab.csproj",
+        "projectPath": "F:\\Afproject\\RadioCab\\RadioCab\\RadioCab.csproj",
         "packagesPath": "C:\\Users\\sc\\.nuget\\packages\\",
-        "outputPath": "F:\\AFinal\\RadioCab\\RadioCab\\obj\\",
+        "outputPath": "F:\\Afproject\\RadioCab\\RadioCab\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
