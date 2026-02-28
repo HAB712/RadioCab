@@ -4,7 +4,7 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# Copy only csproj first (for caching)
+# Copy csproj first (for caching)
 COPY ["RadioCab/RadioCab.csproj", "RadioCab/"]
 
 # Restore dependencies
@@ -14,11 +14,10 @@ RUN dotnet restore "RadioCab/RadioCab.csproj"
 COPY . .
 
 # Publish app
-RUN dotnet publish ""RadioCab/RadioCab.csproj" \
+RUN dotnet publish "RadioCab/RadioCab.csproj" \
     -c Release \
     -o /app/publish \
-    /p:UseAppHost=false \
-    /p:RestoreFallbackFolders=""
+    /p:UseAppHost=false
 
 # -------------------------------
 # Runtime Stage
