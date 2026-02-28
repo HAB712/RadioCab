@@ -43,6 +43,7 @@ wwwroot\Company\js\VacancyAppPage.js
 wwwroot\Company\js\VacancyForm.js
 wwwroot\Company\js\VacancyPage.js
 wwwroot\Company\js\ViewProfile.js
+wwwroot\css\access.css
 wwwroot\css\admin.css
 wwwroot\css\ads.css
 wwwroot\css\advertisement.css
@@ -252,4 +253,3 @@ wwwroot\Upload\Payments\fb20963f-f318-47cd-a267-937f99d0a4c8.png
 wwwroot\Upload\Payments\fd14d3a8-e46c-4e4a-8d57-be9742cd846c.pdf
 wwwroot\Upload\typesofsentencesnarrationlecture.pdf
 wwwroot\Upload\vacancyapplication\bd6a3e19-850d-4d37-bb17-9a89d1e420cd_db4d42dc-b626-47fe-b2c7-d689e0835092.pdf
-wwwroot\css\access.css

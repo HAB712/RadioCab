@@ -4,7 +4,7 @@ using RadioCab.Models;
 using System;
 
 var builder = WebApplication.CreateBuilder(args);
-//Usama Project
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
@@ -18,7 +18,7 @@ builder.Services.Configure<Microsoft.AspNetCore.Http.Features.FormOptions>(optio
 builder.Services.AddScoped<IEmailService, EmailService>();
 
 builder.Services.AddDbContext<RadioCabContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 
 //2. // Session Add Karo for Authentication purpose
@@ -89,4 +89,13 @@ app.MapControllerRoute(
     name: "userApplyForVacancy",
     pattern: "User/ApplyForVacancy",
     defaults: new { controller = "User", action = "ApplyForVacancy" });
+
+
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider
+    .GetRequiredService<RadioCabContext>();
+    db.Database.Migrate(); // Applies pending migrations
+}
+
 app.Run();

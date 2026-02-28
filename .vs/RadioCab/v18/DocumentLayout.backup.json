@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "F:\\Afproject\\RadioCab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EB2142C-894A-4672-B051-6957BA3E9156}|RadioCab\\RadioCab.csproj|f:\\afproject\\radiocab\\radiocab\\migrations\\20260228052215_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EB2142C-894A-4672-B051-6957BA3E9156}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\migrations\\20260228052215_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5EB2142C-894A-4672-B051-6957BA3E9156}|RadioCab\\RadioCab.csproj|f:\\afproject\\radiocab\\radiocab\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EB2142C-894A-4672-B051-6957BA3E9156}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,24 +27,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20260228052215_InitialCreate.cs",
-              "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Migrations\\20260228052215_InitialCreate.cs",
-              "RelativeDocumentMoniker": "RadioCab\\Migrations\\20260228052215_InitialCreate.cs",
-              "ToolTip": "F:\\Afproject\\RadioCab\\RadioCab\\Migrations\\20260228052215_InitialCreate.cs",
-              "RelativeToolTip": "RadioCab\\Migrations\\20260228052215_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T05:22:16.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "CompanyController.cs",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Controllers\\CompanyController.cs",
               "RelativeDocumentMoniker": "RadioCab\\Controllers\\CompanyController.cs",
-              "ToolTip": "F:\\Afproject\\RadioCab\\RadioCab\\Controllers\\CompanyController.cs",
-              "RelativeToolTip": "RadioCab\\Controllers\\CompanyController.cs",
+              "ToolTip": "F:\\Afproject\\RadioCab\\RadioCab\\Controllers\\CompanyController.cs*",
+              "RelativeToolTip": "RadioCab\\Controllers\\CompanyController.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-28T05:20:22.315Z",
@@ -56,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "RadioCabContext.cs",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Models\\RadioCabContext.cs",
               "RelativeDocumentMoniker": "RadioCab\\Models\\RadioCabContext.cs",
@@ -77,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Program.cs",
               "RelativeDocumentMoniker": "RadioCab\\Program.cs",
