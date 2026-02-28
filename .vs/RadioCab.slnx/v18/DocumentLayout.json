@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afproject\\radiocab\\radiocab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afproject\\radiocab\\radiocab\\wwwroot\\css\\access.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\wwwroot\\css\\access.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -130,10 +134,6 @@
       "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\wwwroot\\company\\company\\css\\vacancyapppage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afproject\\radiocab\\radiocab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|f:\\afproject\\radiocab\\radiocab\\views\\company\\vacancypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5827DD6E-F914-44B2-6DAF-973B80E65008}|RadioCab\\RadioCab.csproj|solutionrelative:radiocab\\views\\company\\vacancypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -193,7 +193,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Member.cshtml",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Views\\Admin\\Member.cshtml",
               "RelativeDocumentMoniker": "RadioCab\\Views\\Admin\\Member.cshtml",
@@ -206,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AdminController.cs",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "RadioCab\\Controllers\\AdminController.cs",
@@ -219,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DriverController.cs",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Controllers\\DriverController.cs",
               "RelativeDocumentMoniker": "RadioCab\\Controllers\\DriverController.cs",
@@ -232,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CompanyController.cs",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Controllers\\CompanyController.cs",
               "RelativeDocumentMoniker": "RadioCab\\Controllers\\CompanyController.cs",
@@ -259,26 +259,14 @@
               "RelativeDocumentMoniker": "RadioCab\\Dockerfile",
               "ToolTip": "F:\\Afproject\\RadioCab\\RadioCab\\Dockerfile",
               "RelativeToolTip": "RadioCab\\Dockerfile",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-02-19T21:56:47.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "access.css",
-              "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\wwwroot\\css\\access.css",
-              "RelativeDocumentMoniker": "RadioCab\\wwwroot\\css\\access.css",
-              "ToolTip": "F:\\Afproject\\RadioCab\\RadioCab\\wwwroot\\css\\access.css",
-              "RelativeToolTip": "RadioCab\\wwwroot\\css\\access.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-13T18:29:49.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "RadioCab\\Views\\Admin\\Index.cshtml",
@@ -290,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "paymentmethod.js",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\wwwroot\\js\\paymentmethod.js",
               "RelativeDocumentMoniker": "RadioCab\\wwwroot\\js\\paymentmethod.js",
@@ -302,7 +290,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Program.cs",
+              "RelativeDocumentMoniker": "RadioCab\\Program.cs",
+              "ToolTip": "F:\\Afproject\\RadioCab\\RadioCab\\Program.cs",
+              "RelativeToolTip": "RadioCab\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwFoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:14:52.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "access.css",
+              "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\wwwroot\\css\\access.css",
+              "RelativeDocumentMoniker": "RadioCab\\wwwroot\\css\\access.css",
+              "ToolTip": "F:\\Afproject\\RadioCab\\RadioCab\\wwwroot\\css\\access.css",
+              "RelativeToolTip": "RadioCab\\wwwroot\\css\\access.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-13T18:29:49.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "vacancies.css",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\wwwroot\\css\\user\\vacancies.css",
               "RelativeDocumentMoniker": "RadioCab\\wwwroot\\css\\user\\vacancies.css",
@@ -314,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PaymentMethodValidate.cs",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Models\\PaymentMethodValidate.cs",
               "RelativeDocumentMoniker": "RadioCab\\Models\\PaymentMethodValidate.cs",
@@ -326,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PaymentMethodList.cshtml",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Views\\Admin\\PaymentMethodList.cshtml",
               "RelativeDocumentMoniker": "RadioCab\\Views\\Admin\\PaymentMethodList.cshtml",
@@ -338,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "RadioCab\\Views\\User\\Index.cshtml",
@@ -350,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "VacancyDetails.cshtml",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Views\\User\\VacancyDetails.cshtml",
               "RelativeDocumentMoniker": "RadioCab\\Views\\User\\VacancyDetails.cshtml",
@@ -362,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AdminController.cs",
               "DocumentMoniker": "F:\\Afproject\\usamaproject\\AdminController.cs",
               "RelativeDocumentMoniker": "..\\usamaproject\\AdminController.cs",
@@ -374,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\appsettings.json",
               "RelativeDocumentMoniker": "RadioCab\\appsettings.json",
@@ -386,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Drivers.cshtml",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Views\\User\\Drivers.cshtml",
               "RelativeDocumentMoniker": "RadioCab\\Views\\User\\Drivers.cshtml",
@@ -398,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Vacancies.cshtml",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Views\\User\\Vacancies.cshtml",
               "RelativeDocumentMoniker": "RadioCab\\Views\\User\\Vacancies.cshtml",
@@ -410,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UserController.cs",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "RadioCab\\Controllers\\UserController.cs",
@@ -422,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "CompanyDetails.cshtml",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Views\\User\\CompanyDetails.cshtml",
               "RelativeDocumentMoniker": "RadioCab\\Views\\User\\CompanyDetails.cshtml",
@@ -434,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Com_reg.css",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\wwwroot\\css\\Com_reg.css",
               "RelativeDocumentMoniker": "RadioCab\\wwwroot\\css\\Com_reg.css",
@@ -446,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Login.cshtml",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "RadioCab\\Views\\Account\\Login.cshtml",
@@ -458,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Views\\Company\\Index.cshtml",
               "RelativeDocumentMoniker": "RadioCab\\Views\\Company\\Index.cshtml",
@@ -470,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "company-details.css",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\wwwroot\\css\\user\\company-details.css",
               "RelativeDocumentMoniker": "RadioCab\\wwwroot\\css\\user\\company-details.css",
@@ -482,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "CompanyRegister.cshtml",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Views\\Account\\CompanyRegister.cshtml",
               "RelativeDocumentMoniker": "RadioCab\\Views\\Account\\CompanyRegister.cshtml",
@@ -494,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Login.css",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\wwwroot\\css\\Login.css",
               "RelativeDocumentMoniker": "RadioCab\\wwwroot\\css\\Login.css",
@@ -506,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "DriverRegister.cshtml",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Views\\Account\\DriverRegister.cshtml",
               "RelativeDocumentMoniker": "RadioCab\\Views\\Account\\DriverRegister.cshtml",
@@ -518,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Companies.cshtml",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Views\\User\\Companies.cshtml",
               "RelativeDocumentMoniker": "RadioCab\\Views\\User\\Companies.cshtml",
@@ -530,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "MembershipPlans.cshtml",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Views\\Driver\\MembershipPlans.cshtml",
               "RelativeDocumentMoniker": "RadioCab\\Views\\Driver\\MembershipPlans.cshtml",
@@ -542,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "_UserLayout.cshtml",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Views\\Shared\\_UserLayout.cshtml",
               "RelativeDocumentMoniker": "RadioCab\\Views\\Shared\\_UserLayout.cshtml",
@@ -554,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "DriverDetails.cshtml",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Views\\User\\DriverDetails.cshtml",
               "RelativeDocumentMoniker": "RadioCab\\Views\\User\\DriverDetails.cshtml",
@@ -566,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "VacancyAppPage.css",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\wwwroot\\Company\\css\\VacancyAppPage.css",
               "RelativeDocumentMoniker": "RadioCab\\wwwroot\\Company\\css\\VacancyAppPage.css",
@@ -578,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "VacancyAppPage.css",
               "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\wwwroot\\Company\\Company\\css\\VacancyAppPage.css",
               "RelativeDocumentMoniker": "RadioCab\\wwwroot\\Company\\Company\\css\\VacancyAppPage.css",
@@ -587,18 +600,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-02-10T01:13:31.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Afproject\\RadioCab\\RadioCab\\Program.cs",
-              "RelativeDocumentMoniker": "RadioCab\\Program.cs",
-              "ToolTip": "F:\\Afproject\\RadioCab\\RadioCab\\Program.cs",
-              "RelativeToolTip": "RadioCab\\Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAmwFoAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T23:14:52.733Z"
             },
             {
               "$type": "Document",
